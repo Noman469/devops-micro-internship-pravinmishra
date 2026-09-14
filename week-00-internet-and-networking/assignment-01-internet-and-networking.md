@@ -14,7 +14,12 @@ You're new to DevOps and will frequently encounter technical questions. ChatGPT 
 
 Write a clear ChatGPT prompt to help you understand:
 
-> "What is a protocol in networking? Explain with a simple real-life example."
+Explain What is a protocol in networking? in very simple and beginner-friendly language.
+- First, give a simple definition of a networking protocol.
+- Explain why protocols are needed in computer networks.
+- Give **one simple real-life example** (such as traffic rules or communication between people).
+- Then connect the real-life example with computer networking.
+- Use **easy English** and avoid difficult technical terms.
 
 Take a screenshot of your interaction showing:
 
@@ -25,7 +30,7 @@ Take a screenshot of your interaction showing:
 
 Save your screenshot in the `screenshots` folder and update the file name below.
 
-![Task 1 Screenshot](screenshots/task-1-chatgpt.png)
+![Task 1 Screenshot](screenshots/screenshot1.png)
 
 
 Replace `task-1-chatgpt.png` with your actual screenshot file name.
@@ -34,7 +39,10 @@ Replace `task-1-chatgpt.png` with your actual screenshot file name.
 
 ## What I Learned (2–3 lines)
 
-Add your answer here...
+### What I Learned
+
+I learned that a protocol is like a set of rules that helps computers communicate with each other. It tells them how to send and receive data and what to do if the data is not received properly.
+
 
 ---
 
@@ -59,7 +67,15 @@ Write a short explanation (**100–150 words**) that includes:
 
 ## Answer
 
-Add your answer here...
+
+EpicReads is an online bookstore whose website is hosted on a server in Finland. People from anywhere in the world can visit the website through the internet.
+
+When a user opens EpicReads, the website data is broken into small parts called packets. These packets travel through different paths and are joined together when they reach the user's device. This is called packet switching.
+
+Every device and server has an IP address, which helps find the correct destination. TCP/IP helps the data travel between the user's device and the EpicReads server correctly.
+
+Finally, HTTP/HTTPS helps the browser and website communicate. HTTPS is safer because it protects the information being sent. This is how users around the world can access EpicReads.
+
 
 ---
 
@@ -91,7 +107,7 @@ EpicReads bookstore has two application versions:
 
 Save your diagram image in the `screenshots` folder and update the file name below.
 
-![Application Architecture Diagram](screenshots/task-3-diagram.png)
+![Application Architecture Diagram](screenshots/screenshot2.png)
 
 
 Replace `task-3-diagram.png` with your actual diagram file name.
@@ -102,18 +118,18 @@ Replace `task-3-diagram.png` with your actual diagram file name.
 
 ### Frontend
 
-* Add your answer here...
-* Add your answer here...
+* HTML
+* CSS
 
 ### Backend
 
-* Add your answer here...
-* Add your answer here...
+* NODE.JS
+* JAVA
 
 ### Database
 
-* Add your answer here...
-* Add your answer here...
+* MYSQL
+* MongoDB
 
 ---
 
@@ -142,7 +158,8 @@ In **50–100 words**, explain in your own words:
 
 ## Answer
 
-Add your answer here...
+DNS stands for Domain Name System. It helps us find a website using an easy name instead of remembering a long IP address. For example, instead of typing `52.172.142.222`, users can type `epicreads.com`. To connect this domain with the given IP address, we use an **A record** because it connects a domain name to an IPv4 address. So, when someone enters `epicreads.com`, DNS helps the browser find the server at `52.172.142.222`.
+
 
 ---
 
@@ -178,7 +195,7 @@ ls
 
 Save your screenshot in the `screenshots` folder and update the file name below.
 
-![VS Code Setup Screenshot](screenshots/task-5-vscode.png)
+![VS Code Setup Screenshot](screenshots/screenshot3.png)
 
 
 Replace `task-5-vscode.png` with your actual screenshot file name.
@@ -230,7 +247,7 @@ Replace `YOUR-GITHUB-USERNAME` with your GitHub username — that link is your p
 Paste your LinkedIn post URL here:
 
 ```text
-Add your URL here...
+https://lnkd.in/p/drVKGGZ2
 ```
 
 ---
@@ -239,7 +256,35 @@ Add your URL here...
 
 Paste the full text of your LinkedIn post here:
 
-Add your post content here...
+🚀 Learning Update: DevOps Micro Internship (DMI) by Pravin Mishra
+
+I recently completed Tasks 1–5 of my DevOps Micro Internship. Here’s what I learned:
+
+💬 ChatGPT
+
+I learned how ChatGPT can be used as an AI assistant to understand concepts, solve problems, and improve my learning process.
+
+🌐 Internet & Networking
+
+I learned how data travels through the internet using packet switching, and how protocols like TCP/IP help devices communicate with each other.
+
+🏗️ App Architecture
+
+I learned the basic difference between frontend and backend. The frontend is what users see and interact with, while the backend handles the logic, data, and server-side work.
+
+🔗 DNS
+
+I learned that DNS converts a domain name like epicreads.com into an IP address. An A record is used to connect a domain with an IPv4 address.
+
+💻 VS Code Setup
+
+I also learned how to set up a project in VS Code and use the terminal to run and manage my development work.
+
+This internship is helping me understand the basics of DevOps and how different parts of software development work together. Looking forward to learning more! 🚀
+
+#DevOps #Learning #WebDevelopment #Networking #DNS #VSCode #DMI #StudentDeveloper
+
+P.S. This post is part of the DevOps Micro Internship (DMI) — Self-Paced Engineer Track — by Pravin Mishra. My graded progress is public: https://dmi.pravinmishra.com/s/Noman469.html · Start your DevOps journey: https://dmi.pravinmishra.com/?utm_source=student&utm_medium=ps-linkedin&utm_campaign=self-paced
 
 ---
 
@@ -247,19 +292,19 @@ Add your post content here...
 
 ### What did you find easy?
 
-Add your answer here...
+DNS
 
 ---
 
 ### What was difficult?
 
-Add your answer here...
+App architecture
 
 ---
 
 ### What will you improve next week?
 
-Add your answer here...
+I will imporve myself and i will do hardwork and i will give my 100 percent for this
 
 ---
 
