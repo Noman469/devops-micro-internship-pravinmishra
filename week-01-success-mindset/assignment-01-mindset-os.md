@@ -33,7 +33,8 @@ You will reuse this in later weeks. So do it properly once.
 
 ## Answer
 
-Add your answer here...
+People often say, “Practice makes a man perfect,” but practice alone is not enough. We need to practice the right way to get better. Hard work is important, but if we are working in the wrong way, it may not help us succeed. So, success is not only about working hard. It is also about doing the right things, learning from our mistakes, and trying to get better every day.
+
 
 ---
 
@@ -55,11 +56,14 @@ Write each truth in this format:
 
 ### Truth
 
-Add your answer here...
+Others can cloud your judgement about people pretty easily, if you're not careful.
+
 
 ### Evidence from my life
 
-Add your answer here...
+Sometimes, we lose good people because we care too much about what others say. We start ignoring the people who truly care about us. So, we should trust ourselves and value the people who are always there for us.
+
+
 
 ---
 
@@ -67,11 +71,14 @@ Add your answer here...
 
 ### Truth
 
-Add your answer here...
+Every day, people start their day with different moods and feelings.
+
 
 ### Evidence from my life
 
-Add your answer here...
+Motivation can help us for some time, but it slowly fades away. So, don’t depend only on motivation. Build discipline and keep working even when you don’t feel motivated.
+
+
 
 ---
 
@@ -79,11 +86,13 @@ Add your answer here...
 
 ### Truth
 
-Add your answer here...
+People notice what they see. So, if you want people to know about your work, you need to show it.
+
 
 ### Evidence from my life
 
-Add your answer here...
+You may be talented, but if you don’t show your work, someone else may get the credit. So, let people see what you can do.
+
 
 ---
 
@@ -153,13 +162,32 @@ Hashtags:
 
 ## Your Article
 
-Add your answer here...
+🚀 **What Does My 2.0 Version Look Like?**
+
+A few years from now, I see myself as a confident Full Stack Web Developer with good knowledge of DevOps and cloud technologies.
+
+My journey started with basic coding. I learned HTML, CSS, JavaScript and slowly moved towards React, Node.js, databases and backend development.
+
+By then, I had built and shipped several web projects and added them to my portfolio and GitHub. My GitHub showed my projects and the progress I made over the years.
+
+I had also worked as a Full Stack Developer in a company. I worked with a team, contributed to real projects, fixed bugs, worked with APIs, and learned how to deploy applications.
+
+Along with my job, I had published simple blogs about coding and helped beginners understand difficult topics in an easy way. I had also earned certifications related to web development, cloud and DevOps.
+
+I had also taken part in developer communities and helped juniors with their coding problems.
+
+The biggest change was not only in my technical skills. I had become more disciplined, confident and consistent.
+
+My 2.0 version was not perfect. It was simply a better version of me who kept learning, improving and moving forward. 💻🚀
+
+#DMIByPravinMishra #AgenticAI #DevOps
+
 
 ### Public Link
 
 Paste your link here:
 
-`Add your URL here`
+`https://lnkd.in/p/dJqyxNBN`
 
 ---
 
@@ -191,7 +219,8 @@ If Yes:
 
 ## Answer
 
-Add your answer here...
+Sometimes, I took shortcuts when I had less time to finish a project or assignment. The work got completed, but I was not fully happy with it. I often felt that I had focused more on finishing the work than actually learning it. This made me realize that shortcuts may save time, but they do not help us learn properly. Now, I try to understand things, do the work myself, and learn from the process.
+
 
 ---
 
@@ -217,16 +246,26 @@ Choose books that improve:
 
 ## Book List
 
-1. Add your answer here...
-2. Add your answer here...
-3. Add your answer here...
-4. Add your answer here...
-5. Add your answer here...
-6. Add your answer here...
-7. Add your answer here...
-8. Add your answer here...
-9. Add your answer here...
-10. Add your answer here...
+1. The Almanack of Naval Ravikant — Eric Jorgenson
+![Assignment 5 screenshot](screenshots/10.jpg)
+2. The Comfort Crisis — Michael Easter
+![Assignment 5 screenshot](screenshots/7.jpg)
+3. Deep Work — Cal Newport
+![Assignment 5 screenshot](screenshots/4.jpg)
+4. The Psychology of Money — Morgan Housel
+![Assignment 5 screenshot](screenshots/9.jpg)
+5. The Obstacle Is the Way — Ryan Holiday
+![Assignment 5 screenshot](screenshots/6.jpg)
+6.  How to Win Friends and Influence People — Dale Carnegie
+![Assignment 5 screenshot](screenshots/1.jpg)
+7. The 7 Habits of Highly Effective People — Stephen R. Covey
+![Assignment 5 screenshot](screenshots/3.jpg)
+8. Make It Stick — Peter C. Brown
+![Assignment 5 screenshot](screenshots/5.jpg)
+9. The Personal MBA — Josh Kaufman
+![Assignment 5 screenshot](screenshots/8.jpg)
+10. Atomic Habits — James Clear
+![Assignment 5 screenshot](screenshots/2.jpg)
 
 ---
 
@@ -255,16 +294,16 @@ List topics only. No need to share numbers.
 
 ## My Metrics
 
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
+* New skills I learned every week
+* Projects I finished and added to my portfolio
+* How regularly I completed my weekly goals
+* Time I spent learning DevOps, Cloud, and AI
+* My sleep, exercise, health, and daily energy
+* My relationships with friends and other people
+* How well I used my time and stayed focused
+* How I handled problems and difficult situations
+* How clearly I spoke and communicated with others
+* My progress in completing my Computer Science degree
 
 ---
 
@@ -290,7 +329,7 @@ Examples:
 
 Answer:
 
-Add your answer here...
+Yes
 
 ---
 
@@ -307,8 +346,55 @@ Example:
 * Sun: Weekly review
 
 #### My Weekly Routine
+Monday–Thursday: 60 Minutes — Technical Learning
+9:00–10:00 PM
 
-Add your answer here...
+Work on one main topic at a time:
+
+* AI
+* Backend and APIs
+* Docker and DevOps
+* Personal Projects
+
+Rule: Build more, watch fewer tutorials.
+
+Learn something only when you need it for your current project. Try to use what you learn instead of only watching videos.
+
+ Friday: 30–45 Minutes — Communication
+
+9:00–9:45 PM
+
+Choose one activity:
+
+* Write about a technical topic
+* Improve my LinkedIn or GitHub
+* Read something aloud and explain it
+* Write about a project I built
+
+Goal: I should be able to explain my work clearly, not just do the work.
+
+Saturday: 1.5–2 Hours — DMI + Project
+
+Afternoon or Evening
+
+* **1 hour:** Complete DMI work
+* **30–60 minutes:** Use what I learned in my own project
+
+I should not do DMI only to get a certificate. I should learn something useful from every session and use it in my projects.
+
+ Sunday: 30 Minutes — Weekly Review
+
+8:00–8:30 PM
+
+Ask myself these four questions:
+
+1. What did I build this week?
+2. What new thing did I learn?
+3. Where did I waste my time?
+4. What is the one important thing I need to do next week?
+
+After that, plan the four study sessions for the next week.
+
 
 ---
 
@@ -316,11 +402,13 @@ Add your answer here...
 
 #### When Will You Do DMI Work? (Days + Time)
 
-Add your answer here...
+Everyday for 4 hours excluding live sessions and class
+
+
 
 #### How Many Sessions Per Week?
 
-Add your answer here...
+I will literally commit part of every single day to DMI work. At least a session every day.
 
 ---
 
@@ -334,7 +422,11 @@ Examples:
 
 #### My Distraction Rules
 
-Add your answer here...
+* Discipline: Focus on my long-term goals instead of short-term fun or distractions.
+* Accountability: Check my daily goals every morning and see if I completed them.
+* Entertainment: Watch movies, play games, and relax only during my free time.
+* Social Media: Use social media mainly for learning, connecting with people, and sharing my work.
+
 
 ---
 
@@ -342,28 +434,43 @@ Add your answer here...
 
 ### Biggest insight I got about myself this week
 
-Add your answer here...
+I often spend too much time looking for better tools, plans, and ways to learn. It can feel useful, but sometimes it is just a way to avoid doing the actual work. I already know enough to start making progress. Now, I need to stop changing my plan again and again and focus on doing the work regularly.
+
+Having potential is not enough. What really matters is what I do every day.
+
 
 ### My biggest weakness/loop I noticed
 
-Add your answer here...
+I get excited about new ideas and sometimes try to do too many things at once.
+
+I can learn things quickly and make good plans, but following them every day is harder. I often look for new things instead of doing the basic work that helps me grow.
+
+I have learned that thinking about getting better is not enough. I need to actually do the work every day.
+
 
 ### One system I will implement from this week (exact habit + time)
 
-Add your answer here...
+Every night before going to bed, I will spend 30 minutes checking my progress.
+
+20 minutes: Work on my most important skill or project. I will avoid tutorials unless I really need them.
+
+5 minutes: Write down what I actually completed that day.
+
+5 minutes: Choose the most important task for tomorrow and write the first step I need to take.
+
 
 ### LinkedIn Post
 
 Paste your LinkedIn post link here:
 
-`Add your URL here`
+`https://lnkd.in/p/dR_4fmZH`
 
 ---
 
 ## 10. Proof of Work
 
-- LinkedIn Post URL: **ADD LINK HERE**  
-- Blog / Medium : **ADD LINK HERE**  
+- LinkedIn Post URL: [**Noman Ahamd linkdin**](https://lnkd.in/p/dR_4fmZH)  
+- Blog / Medium : [**Noman Ahmad Blog**](https://medium.com/@ahmadnoman6969/what-i-learned-from-my-first-week-of-dmi-fa2e149ce2bb)  
 
 ---
 
